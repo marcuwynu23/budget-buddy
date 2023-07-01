@@ -15,7 +15,7 @@ Budget Buddy is a command-line application that helps you calculate and manage y
 1. Clone the repository: `git clone https://github.com/marcuwynu23/budget-buddy.git`
 2. Navigate to the project directory: `cd budget-buddy`
 3. Install the required dependencies: `pip install tabulate`
-4. Run the application: `python budget_buddy.py`
+4. Run the application: `python app.py`
 
 ## Usage
 
